@@ -1,1 +1,11 @@
-This is Dhinesh
+git init
+git remote add origin https://github.com/Dhinesh-Developer/GitLearning.git
+git remote -v
+git add .
+git add Demo.txt
+git status
+git commit -m "Initial commit"
+git log
+git push origin master
+git stash // revert 
+git rm -Demo.txt
